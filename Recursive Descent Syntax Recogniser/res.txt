@@ -1,0 +1,46 @@
+Compilation Exception
+	Caused by Programs Folder\program2: - Parsed error :  statement part 
+	Caused by Error at line 1 in Programs Folder\program2: - Expected these tokens:  ' begin '  , Found: (' begim ')
+
+Compilation Exception
+	Caused by Programs Folder\program3: - Parsed error :  statement part 
+	Caused by Programs Folder\program3: - Parsed error :  statement List 
+	Caused by Programs Folder\program3: - Parsed error :  statement List 
+	Caused by Programs Folder\program3: - Parsed error :  statement List 
+	Caused by Programs Folder\program3: - Parsed error :  statement 
+	Caused by Programs Folder\program3: - Parsed error :  If Statement 
+	Caused by Error at line 11 in Programs Folder\program3: - Expected these tokens:  ' if '  , Found: ('  ')
+
+Compilation Exception
+	Caused by Programs Folder\program4: - Parsed error :  statement part 
+	Caused by Programs Folder\program4: - Parsed error :  statement List 
+	Caused by Programs Folder\program4: - Parsed error :  statement List 
+	Caused by Programs Folder\program4: - Parsed error :  statement List 
+	Caused by Programs Folder\program4: - Parsed error :  statement 
+	Caused by Programs Folder\program4: - Parsed error :  While statement 
+	Caused by Programs Folder\program4: - Parsed error :  statement List 
+	Caused by Programs Folder\program4: - Parsed error :  statement List 
+	Caused by Programs Folder\program4: - Parsed error :  statement List 
+	Caused by Programs Folder\program4: - Parsed error :  statement 
+	Caused by Error at line 7 in Programs Folder\program4: - Expected these tokens:  ' IDENTIFIER ' , ' if ' , ' while ' , ' call ' , ' until ',  or ' for '  , Found: (' end ')
+
+Compilation Exception
+	Caused by Programs Folder\program5: - Parsed error :  statement part 
+	Caused by Programs Folder\program5: - Parsed error :  statement List 
+	Caused by Programs Folder\program5: - Parsed error :  statement List 
+	Caused by Programs Folder\program5: - Parsed error :  statement List 
+	Caused by Programs Folder\program5: - Parsed error :  statement 
+	Caused by Programs Folder\program5: - Parsed error :  While statement 
+	Caused by Error at line 7 in Programs Folder\program5: - Expected these tokens:  ' loop '  , Found: (' ; ')
+
+Compilation Exception
+	Caused by Programs Folder\program7: - Parsed error :  statement part 
+	Caused by Programs Folder\program7: - Parsed error :  statement List 
+	Caused by Programs Folder\program7: - Parsed error :  statement List 
+	Caused by Programs Folder\program7: - Parsed error :  statement List 
+	Caused by Programs Folder\program7: - Parsed error :  statement 
+	Caused by Error at line 4 in Programs Folder\program7: - Expected these tokens:  ' IDENTIFIER ' , ' if ' , ' while ' , ' call ' , ' until ',  or ' for '  , Found: (' else ')
+
+Compilation Exception
+	Caused by Error at line 12 in Programs Folder\program8: - Expected these tokens:  ' EOF '  , Found: (' call ')
+
